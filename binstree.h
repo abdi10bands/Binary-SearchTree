@@ -1,6 +1,6 @@
 
-// CS311: BST header file for HW4 - by Yoshii - DO NOT CHANGE!!
-// This BST has an Up link to make it easy to go up the tree later 
+//  BST header file 
+ 
 //------------------------------------------------------------
 
 // tree element type is int for now
