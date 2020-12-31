@@ -1,17 +1,6 @@
-// CS311 : This is the BST implementation file template by Rika Yoshii
-
-// Each node has an Up link to make it easy to go up the tree.  It must be set as nodes are inserted.  Some deletion
-// cases require Up link to be updated.  Couts are there to test to make sure
-// you set the Up links correctly!!!! (Fall 19)
-//
-// INSTRUCTIONS:
-// Look for ** comments to complete this file for HW4
-// Try not to delete the ** comments, but add the code next to them
-// Make sure all { } match. Doing Tab on each line helps.
-// Draw pictures as you complete each **
 
 // =========================================================
-//HW#: HW4 BST
+// BST
 //Your name: Abdiel
 //Complier:  g++
 //File type: implementation file binstree.cpp
