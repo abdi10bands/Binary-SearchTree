@@ -1,4 +1,4 @@
-// CS311 This client tests the BST class - by Yoshii - DO NOT CHANGE!!
+
 //-------------------------------------------------------------------
 
 #include <iostream>
